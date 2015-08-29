@@ -1,6 +1,5 @@
 .magda {
 	text-align: center;
-	background: red;
 	padding: 45px;
 }
 
@@ -10,4 +9,34 @@
 
 menu {
     display: flex; justify-content: center;
+}
+
+.pes {
+    display: flex; justify-content: center;
+}
+
+.acenter {
+	text-align: center;
+}
+
+footer { padding-top: 85px;
+		 padding-bottom: 41px;
+
+}
+
+a {
+	color: #666;
+}
+
+a:hover {
+	color:#333;
+}
+
+body {
+	text-transform: uppercase;
+}
+
+p {
+	text-transform: none;
+	text-align: justify;
 }

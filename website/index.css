@@ -4,7 +4,8 @@
 }
 
 .magda img { 
-	height: 193px;
+	max-height: 100px;
+	margin: 0 auto;
 }
 
 menu {
@@ -39,4 +40,9 @@ body {
 p {
 	text-transform: none;
 	text-align: justify;
+	padding-top: 20px;
+}
+
+.vyrazne {
+	background-color: #eee;
 }
